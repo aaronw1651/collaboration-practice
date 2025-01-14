@@ -8,7 +8,11 @@
 #### 8
 #### GitHub is really awesome
 #### 10
-#### GitHub is really good.
+
+#### Git.
+
+#### This text is good
+
 #### 12
 #### 13
 #### 14
